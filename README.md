@@ -1,0 +1,1 @@
+Ce projet vise à démontrer diverses techniques de manipulation de données ainsi que des analyses statistiques descriptives et des visualisations des prix des produits vivriers en Côte d'Ivoire en 2016.
